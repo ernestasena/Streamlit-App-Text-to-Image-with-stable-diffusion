@@ -10,4 +10,3 @@ image = pipe(prompt).images[0]
     
 image.save("astronaut_rides_horse.png")
 
-
